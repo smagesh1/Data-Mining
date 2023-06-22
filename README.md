@@ -1,10 +1,8 @@
 # Data-Mining
 
-This repository contains my solutions for the Data Mining coursework at King's College London.
-
 ## Task Description
 
-The aim of this coursework assignment was to demonstrate understanding of and obtain experience with classification and cluster analysis, which are among the most important data mining tasks. 
+The aim of this project was to demonstrate understanding of and obtain experience with classification and cluster analysis, which are among the most important data mining tasks. 
 
 ## Files
 
