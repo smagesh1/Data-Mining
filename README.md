@@ -4,6 +4,14 @@
 
 The aim of this project was to demonstrate understanding of and obtain experience with classification and cluster analysis, which are among the most important data mining tasks. 
 
+## Datasets 
+- adult.py uses the adult data set
+    - Link to dataset: https://archive.ics.uci.edu/ml/datasets/Adult 
+- wholesale_customers.py uses the wholesale customers data set
+    - Link to dataset: https://archive.ics.uci.edu/ml/datasets/wholesale+customers
+- coronavirus_tweets.py uses the Coronavirus Tweets NLP data set from Kaggle
+    - Link to the dataset https://www.kaggle.com/datatattle/covid-19-nlp-text-classification
+
 ## Files
 
 The repository includes the following files:
